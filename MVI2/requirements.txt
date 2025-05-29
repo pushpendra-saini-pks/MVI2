@@ -1,0 +1,10 @@
+pandas 
+python-dotenv 
+aiofiles
+streamlit
+google-generativeai
+python-multipart
+pinecone
+matplotlib
+seaborn 
+groq
