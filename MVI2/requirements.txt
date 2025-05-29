@@ -8,3 +8,4 @@ pinecone
 matplotlib
 seaborn 
 groq
+scipy
