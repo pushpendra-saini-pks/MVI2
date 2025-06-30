@@ -415,7 +415,7 @@ st.markdown("""
 
 def main():
     # Header
-    st.markdown('<h1 class="main-header">🧠 AI-Powered Data Imputation</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">🧠Context-Aware MV Imputer</h1>', unsafe_allow_html=True)
     st.markdown("**Leverage AI to intelligently fill missing values in your datasets using semantic similarity and advanced language models.**")
     
     # Sidebar Configuration
